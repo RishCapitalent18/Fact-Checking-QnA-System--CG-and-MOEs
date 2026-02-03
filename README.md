@@ -106,7 +106,7 @@ streamlit_app/
 
 ## 👨‍💻 Authors
 
-Virginia Tech, NLP 5624 Spring 2025 Group 
+Virginia Tech, NLP CS5624 Spring 2025 Group - Pratham Joshi, Pratibha Zunjare, Rishabh Karthik Ramesh, Tushar Deshpande, Uma Sawant Bhosale
 
 ---
 
