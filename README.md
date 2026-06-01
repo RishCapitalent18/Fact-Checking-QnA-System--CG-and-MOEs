@@ -21,6 +21,11 @@ LLMs are powerful but prone to hallucination. To reduce factual errors and impro
 
 ---
 
+## 👤 My Contributions
+This is a group project. My contributions: Implemented the triple extraction and matching module — extracting (head, relation, tail) triples from model outputs and comparing them against Wikidata/CoDEx domain KG subsets to evaluate factual grounding and identify hallucination failure modes.
+
+---
+
 ## 🏗️ System Architecture
 
 ```
